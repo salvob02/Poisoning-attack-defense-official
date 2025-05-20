@@ -8,7 +8,7 @@ CONTRACT_ADDRESS_HASH_FILES_DATASET: "0xdA40eeE32143eF7374C0119364d4B27AFbE4E74d
 
 #to save dataset info
 DATASET_ID : 1
-DATASET_PATH : "archivio_con_cartella_eliminata.zip"
+DATASET_PATH : "dataset.zip"
 
 
 #to check dataset's integrity
