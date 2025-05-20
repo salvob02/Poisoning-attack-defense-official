@@ -68,3 +68,12 @@ Execution:
 - Execute file "save_datasetInfo_on_bkch.py" to save dataset_info on bkch.
 - Execute file "check_dataset.py" to check the integrity of the dataset.
 - Result could be viewed in the terminal and eventually in the file log.txt.
+
+
+
+You could try with dataset: https://www.kaggle.com/datasets/pmigdal/alien-vs-predator-images?resource=download
+- datasets must have exactly: -- only one folder which name include 'train'   that represents training folder
+                              -- max one folder which name include 'val'     that represents validation folder
+                              -- max one folder which name include 'test'     that represents test folder
+
+- labels must have been included in folder which name represents label's name otherwise program doesn't recognise them.
