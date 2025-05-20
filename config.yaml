@@ -1,0 +1,17 @@
+GANACHE_URL : "http://127.0.0.1:7545"
+PRIVATE_KEY : "0x1f897b8a78e1fca6a20218f690c8a0cc55c7e1c445c3c368eee3302afa1e8919" #example
+WALLET_ADDRESS : "0xed36e609b20B4497EE81e3e8b6a3682F73Bf52CB" #example
+CONTRACT_ADDRESS_INFO_DATASET : "0x31ceeDFd7EB02511d14D9364E0f01B562a32c9f4"  #example contract's address of the general info of the dataset
+
+
+CONTRACT_ADDRESS_HASH_FILES_DATASET: "0xdA40eeE32143eF7374C0119364d4B27AFbE4E74d"  #example contract's address of the hashed files of the dataset.
+
+#to save dataset info
+DATASET_ID : 1
+DATASET_PATH : "archivio_con_cartella_eliminata.zip"
+
+
+#to check dataset's integrity
+DATASET_ID_CHECK: 1
+DATASET_PATH_CHECK: "dataset.zip"
+
